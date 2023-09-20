@@ -1,0 +1,15 @@
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/bin/Debug/net6.0/LiskovSubstitutionPrinciple
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/bin/Debug/net6.0/LiskovSubstitutionPrinciple.deps.json
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/bin/Debug/net6.0/LiskovSubstitutionPrinciple.runtimeconfig.json
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/bin/Debug/net6.0/LiskovSubstitutionPrinciple.dll
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/bin/Debug/net6.0/ref/LiskovSubstitutionPrinciple.dll
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/bin/Debug/net6.0/LiskovSubstitutionPrinciple.pdb
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.AssemblyInfo.cs
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.dll
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/obj/Debug/net6.0/ref/LiskovSubstitutionPrinciple.dll
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.pdb
+/home/susruth/RiderProjects/SOLID-Principles/LiskovSubstitutionPrinciple/obj/Debug/net6.0/LiskovSubstitutionPrinciple.genruntimeconfig.cache
